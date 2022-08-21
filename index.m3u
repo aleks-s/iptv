@@ -5,8 +5,10 @@ https://mobdrm.mediavitrina.ru/hls-livec2/streams/vitrina-hls/1tv/playlist.m3u8?
 https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
 #EXTINF:-1 ,Матч! HD
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
-#EXTINF:-1 ,Матч! HD Test
+#EXTINF:-1 ,Матч! HD matchtv.ru
 https://bl.video.matchtv.ru/media/start/free_75a5e8435ad467488d4222aa29eabe39_hd/17_86669241/952a6c5933a6d2731013eb113aba2351/4809226378.m3u8
+#EXTINF:-1 ,Матч! HD mediavitrina.ru
+https://mobdrm.mediavitrina.ru/hls-livec2/streams/vitrina-hls/matchtv/playlist.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
 #EXTINF:-1 ,5 канал
 https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
 #EXTINF:-1 ,Россия 24
