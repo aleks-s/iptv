@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml"
-#EXTINF:-1 ,Test TV
-https://ivi-live-cgtn.servicecdn.ru/jW1IAe3IBGlRKVqqOOsuxJ9cR9sduoKvW8kxBi6V7ntqOotrbu0026043/gXOHEnv9ELIARxzFOgnm5A,1661228576/2050.m3u8
 #EXTINF:-1 ,Первый канал
 https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/1tv/playlist.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
 #EXTINF:-1 ,Россия 1
