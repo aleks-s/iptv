@@ -8,7 +8,7 @@ https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/matchtv/playlist.m
 #EXTINF:-1 ,НТВ
 https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/ntv0h/playlist.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
 #EXTINF:-1 ,5 канал
-https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
+https://mobdrm.mediavitrina.ru/hls-live1/streams/tv-5/3s/tv-5.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
 #EXTINF:-1 ,Россия 24
 https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8
 #EXTINF:-1 ,Россия Культура
