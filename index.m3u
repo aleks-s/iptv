@@ -15,6 +15,8 @@ https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/russiak/playlist.m
 https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/russia24/playlist.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
 #EXTINF:-1 ,Карусель
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 ,Карусель Test
+https://er-cdn.ertelecom.ru/os/video/hls/d54fb5e8b0407e4c3b193c17e15fc2c578fedc3415342486b6b55b77c5dd543d22ac7cee038e69efcfe1758c0a90c3b9bd1455d07770e4a80c55f6edcd7db65766707319c61b9d98b7a0876bc0933fab0cc0bfbdbfd241eeec19838380509de7aaa9143a063bfce642102ab80cd7afe61dc7d40fc107e5dc50f3b82a1d324247e789fb1dd21e7b92f4cce8e9c996c67b58d88dc87f886ca01919c9d086f39a57fc64c14da355758619f1e2574c6aa53f61ee0700eeed4121d2c9ac3b4f59b875f180c3d13847facb5fec5371167818b9b48b4aa40fed27dbf24383a470c9fd4e84f5986418ea66286c8d24d4f2cffaf0a68baa8986be8650fcaf076051994a6f76c666e45b30cb948aed730e9e1e0ade/playlist.m3u8
 #EXTINF:-1 ,ОТР
 https://mobdrm.mediavitrina.ru/hls-live1/streams/otr/3s/otr.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
 #EXTINF:-1 ,ТВ Центр
