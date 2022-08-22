@@ -1,17 +1,13 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml"
-#EXTINF:-1 ,Карусель ngenix.net
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF:-1 ,Карусель ertelecom.ru
-https://er-cdn.ertelecom.ru/os/video/hls/307ece55f2efcded6af767da7f84a59a266982a306d618af655b59d453e232057ee0aff6f3edfa2b660ffa591e129777e8e5db3ee36e0d5a505683588af089c954600ab8ceb20bb318d71a51d6748576582cd848e06ff2c1792bf044206d803206fd621560f49cc4e4d1208c86f7ada8fe93e580a04ba3f0bc9aa2e0df0598a7a8ac5901248b434078de97948ac9552d2334ea99dd6f4b91caa23efb613d3ec8d19b5cdd99992a853bbda2d249100f2a51e874bc09dda856b4493fe2296ca70a54131ead3840760eb400dc46a4bf60aa745abae1392b24b900b3b0f0c1a26e47332b6628693c8a693d014f705b62805aeb594186599fccc6e7614a12e6e7dc92239b4d7c302ff006b245a623d3c2fff4/playlist.m3u8
 #EXTINF:-1 ,Первый канал HD
 https://mobdrm.mediavitrina.ru/hls-livec2/streams/vitrina-hls/1tv/playlist.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
 #EXTINF:-1 ,Россия 1 HD
 https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
 #EXTINF:-1 ,Матч! HD
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
-#EXTINF:-1 ,Матч! HD matchtv.ru
-https://mobdrm.mediavitrina.ru/hls-livec2/streams/vitrina-hls/matchtv/playlist.m3u8?cdn=https%3A%2F%2Fedge02d.mediavitrina.ru&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
-#EXTINF:-1 ,Матч! HD mediavitrina.ru
+#EXTINF:-1 ,Матч! HD hls-livec1
+https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/matchtv/playlist.m3u8?cdn=https%3A%2F%2Fedge02d.mediavitrina.ru&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
+#EXTINF:-1 ,Матч! HD hls-livec2
 https://mobdrm.mediavitrina.ru/hls-livec2/streams/vitrina-hls/matchtv/playlist.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
 #EXTINF:-1 ,5 канал
 https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
@@ -101,3 +97,5 @@ https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RBK_logo.svg/512px-RBK_logo.svg.png",РБК
 http://online.video.rbc.ru/online/rbctv.m3u8
+#EXTINF:-1 ,Карусель ngenix.net
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
