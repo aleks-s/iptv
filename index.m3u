@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml"
+#EXTINF:-1 ,Test TV
+https://ivi-live-cgtn.servicecdn.ru/jW1IAe3IBGlRKVqqOOsuxJ9cR9sduoKvW8kxBi6V7ntqOotrbu0026043/gXOHEnv9ELIARxzFOgnm5A,1661228576/2050.m3u8
 #EXTINF:-1 ,Первый канал
 https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/1tv/playlist.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
 #EXTINF:-1 ,Россия 1
@@ -15,8 +17,6 @@ https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/russiak/playlist.m
 https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/russia24/playlist.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
 #EXTINF:-1 ,Карусель
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF:-1 ,Карусель Test
-https://er-cdn.ertelecom.ru/os/video/hls/dcc830009e7d799cf687253e01849971b4f881f93bd3d404073b43dfed05177a727d8d1edf2e465e4f032f15b52ce41b8f7c395763b27ed54a7b0d39220a72087501394c0d0101659ee7978651ea553582bd30494bc73f5f5c8033c9e06fea1f671b5d34c9af18522d2d24e757a1df7df2792a5a089c2aa20f48b22d7042a700790ccc23ada2c8672d769d446de0d0c96790809b6a2342bc7eac1a5141802e43f41bbd772670862e74aeb2144eb9803161b291c0734b59734b713feaf4284df647d7eabcb4ccf52c999c9126c804a82981cf0356d6390c267656f1b34929165258877f6776c60b1d2017f4c9cf30234f309407cd542d0295b6b632cfaf3347d54ad657494231cd97edb7c180b8759286ba35a4ec59853d217382b646b8ab4f6caef865df98696163f55ba3a90f5a14b34a00e1d37dc76fa3053a1a8f25851aad851a97133bd7d2dd392c088a4d97cc2268fe273a64dc69eeb707f8097b7dc40c/playlist.m3u8
 #EXTINF:-1 ,ОТР
 https://mobdrm.mediavitrina.ru/hls-live1/streams/otr/3s/otr.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
 #EXTINF:-1 ,ТВ Центр
