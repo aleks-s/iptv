@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml"
-#EXTINF:-1 ,Первый канал HD hls-livec1
+#EXTINF:-1 ,Первый канал HD
 https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/1tv/playlist.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
-#EXTINF:-1 ,Первый канал HD hlsp-livec1
-https://mobdrm.mediavitrina.ru/hlsp-livec2/streams/vitrina-hlsd/1tv/playlist.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
 #EXTINF:-1 ,Россия 1 HD
 https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
+#EXTINF:-1 ,Россия 1 HD Test
+https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/russia1/playlist.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
 #EXTINF:-1 ,Матч! HD
 https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/matchtv/playlist.m3u8?cdn=https%3A%2F%2Fedge02d.mediavitrina.ru&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
 #EXTINF:-1 ,5 канал
