@@ -19,10 +19,10 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 https://mobdrm.mediavitrina.ru/hls-live1/streams/otr/3s/otr.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
 #EXTINF:-1 ,ТВ Центр
 https://mobdrm.mediavitrina.ru/hls-live1/streams/tvc/3s/tvc.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
-#EXTINF:-1 ,СПАС
-https://okkotv-live.cdnvideo.ru/channel/Spas.m3u8
 #EXTINF:-1 ,Рен ТВ HD
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
+#EXTINF:-1 ,СПАС
+https://okkotv-live.cdnvideo.ru/channel/Spas.m3u8x
 #EXTINF:-1 ,СТС HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
 #EXTINF:-1 ,Домашний HD
@@ -31,22 +31,29 @@ https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8
 https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD.m3u8
 #EXTINF:-1 ,Пятница HD
 https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD.m3u8
-#EXTINF:-1 ,ТНТ HD
-https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD.m3u8
-#EXTINF:-1 ,Ю
-https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8
-#EXTINF:-1 ,Че
-https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
-#EXTINF:-1 ,СТС Love
-https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 #EXTINF:-1 ,Звезда
 https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD.m3u8
 #EXTINF:-1 ,Мир
 https://okkotv-live.cdnvideo.ru/channel/Mir_OTT.m3u8
+#EXTINF:-1 ,ТНТ HD
+https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD.m3u8
 #EXTINF:-1 ,МузТВ
 https://okkotv-live.cdnvideo.ru/channel/MuzTV.m3u8
+#EXTINF:-1 ,Че
+https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
 #EXTINF:-1 ,Известия
 https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2.m3u8
+#EXTINF:-1 ,СТС Love
+https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
+#EXTINF:-1 ,Ю
+https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8
+#EXTINF:-1 ,Disney
+https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
+#EXTINF:-1 ,РБК
+http://online.video.rbc.ru/online/rbctv.m3u8
+
+
+
 #EXTINF:-1 ,A1
 https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
 #EXTINF:-1 ,A2
@@ -85,8 +92,6 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
 #EXTINF:-1 ,Viasat History
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
-#EXTINF:-1 ,Disney
-https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
 #EXTINF:-1 ,Мультиландия
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
 #EXTINF:-1 ,National Geographic Wild HD
@@ -99,5 +104,3 @@ http://okkotv-live.cdnvideo.ru/channel/BabyTV.m3u8
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
 #EXTINF:-1 ,START World
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
-#EXTINF:-1 ,РБК
-http://online.video.rbc.ru/online/rbctv.m3u8
