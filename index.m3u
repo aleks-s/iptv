@@ -10,15 +10,15 @@ https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/ntv0h/playlist.m3u
 #EXTINF:-1 ,Пятый канал
 https://mobdrm.mediavitrina.ru/hls-live1/streams/tv-5/3s/tv-5.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
 #EXTINF:-1 ,Россия К
-https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD.m3u8
+https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/russiak/playlist.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
 #EXTINF:-1 ,Россия 24
-https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8
+https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/russia24/playlist.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
 #EXTINF:-1 ,Карусель
-https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 ,ОТР
-https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8
+https://mobdrm.mediavitrina.ru/hls-live1/streams/otr/3s/otr.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
 #EXTINF:-1 ,ТВ Центр
-https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8
+https://mobdrm.mediavitrina.ru/hls-live1/streams/tvc/3s/tvc.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
 #EXTINF:-1 ,СПАС
 https://okkotv-live.cdnvideo.ru/channel/Spas.m3u8
 #EXTINF:-1 ,Рен ТВ HD
@@ -101,5 +101,3 @@ https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
 #EXTINF:-1 ,РБК
 http://online.video.rbc.ru/online/rbctv.m3u8
-#EXTINF:-1 ,Карусель
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
