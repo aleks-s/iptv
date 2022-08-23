@@ -14,6 +14,7 @@ https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/russiak/playlist.m
 #EXTINF:-1 ,Россия 24
 https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/russia24/playlist.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
 #EXTINF:-1 ,Карусель
+#EXTVLCOPT:http-user-agent=WINK/1.39.3 (AndroidTV/10) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 ,ОТР
 https://mobdrm.mediavitrina.ru/hls-live1/streams/otr/3s/otr.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
