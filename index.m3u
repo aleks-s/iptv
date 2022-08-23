@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml,https://i.mjh.nz/SamsungTVPlus/us.xml.gz"
 #EXTINF:-1 ,Первый канал
 https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/1tv/playlist.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
 #EXTINF:-1 ,Россия 1
@@ -52,3 +52,5 @@ https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/yu/playlist.m3u8?c
 https://mobdrm.mediavitrina.ru/hls-livecn1/streams/hls/Disney_OTT/master.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
 #EXTINF:-1 ,РБК
 http://online.video.rbc.ru/online/rbctv.m3u8
+#EXTINF:-1 channel-id="samsung-USBB32000103E" tvg-id="USBB32000103E" tvg-chno="1009" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/75/USBB32000103E_20220330T045121.png" group-title="News & Opinion",CNN Replay
+https://doq6y2m748j16.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CNN-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
