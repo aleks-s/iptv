@@ -49,7 +49,7 @@ https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/yu/playlist.m3u8?c
 https://mobdrm.mediavitrina.ru/hls-livecn1/streams/hls/Disney_OTT/master.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
 #EXTINF:-1 ,РБК
 http://online.video.rbc.ru/online/rbctv.m3u8
-#EXTINF:-1 ,РБК Test
-https://plbl.m9.lfstrm.tv/rbk_hd/normal/index.m3u8?account=c0515d6471c635bc&client=a2334a8fb6c7bc1a&env=s&expires=1661450400&ip=146-120-78-170&liveorigin=m9-live5&mpltlh=auto&origin=m9-dvr5&pbs_id=2e57784b-7868-4987-9b1e-5152511c97b9&provider_id=59db5f83bd10231640a3d9d6&token=PffBfiFJf9aeeHjabFtjhg&wlid=smotreshka
 #EXTINF:-1 ,CNN Replay
 https://doq6y2m748j16.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CNN-prod/playlist.m3u8
+#EXTINF:-1 ,Test
+http://s91084.cdn.ngenix.net/streamer/ver6/hls/none/3fab4071-c22d-41b9-975a-49c4a7410dfa/x264/auto/aac-all/master.m3u8
