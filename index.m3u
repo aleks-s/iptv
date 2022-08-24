@@ -51,13 +51,7 @@ https://mobdrm.mediavitrina.ru/hls-livecn1/streams/hls/Disney_OTT/master.m3u8?cd
 http://online.video.rbc.ru/online/rbctv.m3u8
 #EXTINF:-1 ,CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 ,CNN
+https://raw.githubusercontent.com/aleks-s/iptv/master/master.m3u8
 #EXTINF:-1 ,CNN Replay
 https://doq6y2m748j16.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CNN-prod/playlist.m3u8
-#EXTINF:-1 ,CNN 1
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,CNN 2
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 ,CNN 3
-https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1 ,CNN 4
-https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
