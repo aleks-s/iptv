@@ -37,15 +37,15 @@ https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/mir/playlist.m3u8?
 https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/tnt/playlist.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
 #EXTINF:-1 tvg-logo="https://static.okko.tv/images/v2/15783186",Муз-ТВ
 https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/muztv/playlist.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
-#EXTINF:-1 ,Че
+#EXTINF:-1 tvg-logo="https://static.okko.tv/images/v2/15113367",Че
 https://mobdrm.mediavitrina.ru/hls-live1/streams/ctc-che/3s/ctc-che.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
-#EXTINF:-1 ,Известия
+#EXTINF:-1 tvg-logo="https://static.okko.tv/images/v2/15112992",Известия
 https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/izvestia/playlist.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
-#EXTINF:-1 ,СТС Love
+#EXTINF:-1 tvg-logo="https://static.okko.tv/images/v2/18550375",СТС Love
 https://mobdrm.mediavitrina.ru/hls-live1/streams/ctc-love/3s/ctc-love.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
-#EXTINF:-1 ,Ю
+#EXTINF:-1 tvg-logo="https://static.okko.tv/images/v2/15113433",Ю
 https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/yu/playlist.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
-#EXTINF:-1 ,Disney
+#EXTINF:-1 tvg-logo="https://static.okko.tv/images/v2/15112845",Disney
 https://mobdrm.mediavitrina.ru/hls-livecn1/streams/hls/Disney_OTT/master.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.G7sda79lk0Au7RsVVZBsrs2ejXc9Hq_uL-N1ic9VkO0.qycyLrFLBZp1fkTyELDYOnhruY5uETSxog5uLo4GJMw.1661041818.f04d1a101dce17af4ed8433e6b162875
 #EXTINF:-1 ,РБК
 http://online.video.rbc.ru/online/rbctv.m3u8
