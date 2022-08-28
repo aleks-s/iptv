@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml.gz"
 #EXTINF:-1 tvg-logo="https://static.okko.tv/images/v2/15142412",Первый канал
 https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/1tv/playlist.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.sjBaZ_4ff2Vkkf4uxuVSX8OVMT9VMSsqB4m0p8B9ASE.G9THQ2EKl4IVxy8ZP4QZeNJbJ_2g5D34L0wXja90ISw.1661646783.8655c4c0b1356df84f59af8ce62a358f
 #EXTINF:-1 tvg-logo="https://static.okko.tv/images/v2/15113216",Россия 1
