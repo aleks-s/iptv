@@ -1,0 +1,3 @@
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/de/master.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/de/master.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/de/master.m3u8
