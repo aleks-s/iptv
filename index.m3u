@@ -55,3 +55,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 ,CNN
 https://raw.githubusercontent.com/aleks-s/iptv/master/master.m3u8
+#EXTINF:-1 ,Al Jazeera English test 1
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 ,Al Jazeera English test 2
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
