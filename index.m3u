@@ -53,5 +53,3 @@ http://online.video.rbc.ru/online/rbctv.m3u8
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 ,CNN
 https://raw.githubusercontent.com/aleks-s/iptv/master/master.m3u8
-#EXTINF:-1 ,Apple Event
-https://events-delivery.apple.com/2807skttevpekgjkgcyolyxgkexyahqp/m3u8/vod_index-bHTtMFcgdqmJGoHoDBPadNWwGwrNevrj.m3u8
