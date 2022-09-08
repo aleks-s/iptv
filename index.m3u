@@ -61,3 +61,7 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=F-POY4Q0QSI
 #EXTINF:-1 ,France 24 English (YouTube)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=h3MuIUNCCzI
+#EXTINF:-1 ,BBC Test 1
+http://ve-dash-ww-live.akamaized.net/pool_901/live/nonuk/silver_stream_05/silver_stream_05.isml/pc_hd_abr_v3_dash.mpd
+#EXTINF:-1 ,BBC Test 2
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/nonuk/hls_pc/ak/silver_stream_05.m3u8
