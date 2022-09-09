@@ -54,12 +54,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 ,CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 ,CNN
-https://raw.githubusercontent.com/aleks-s/iptv/master/master.m3u8
-#EXTINF:-1 ,Al Jazeera English 1
-https://live-hls-apps-aje.getaj.net/AJE/index.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
 #EXTINF:-1 ,Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 ,Al Jazeera English (YouTube)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=F-POY4Q0QSI
+https://live-hls-apps-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 ,France 24 English (YouTube)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=h3MuIUNCCzI
