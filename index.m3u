@@ -59,9 +59,5 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 https://live-hls-apps-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 ,France 24 English (YouTube)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=h3MuIUNCCzI
-#EXTINF:-1 ,Euronews English 1
+#EXTINF:-1 ,Euronews English
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-#EXTINF:-1 ,Euronews English 2
-https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews English 3
-https://euronews.alteox.app/hls/en_stream.m3u8
