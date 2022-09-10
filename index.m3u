@@ -49,15 +49,3 @@ https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/yu/playlist.m3u8?c
 https://mobdrm.mediavitrina.ru/hls-livecn1/streams/hls/Disney_OTT/master.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v2.KflmbxC1dfclRXUiFYdv0VhovvQW2HViBbr-82qEtj4.CJ9Fwbarg01KUDQ9oJnGEn4wcqsRFdmsBKpa-EI3MTU.1662252051.badce20ce451896d4e88a58fc0a2fa9a
 #EXTINF:-1 ,РБК
 http://online.video.rbc.ru/online/rbctv.m3u8
-#EXTINF:-1 ,DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 ,CBS News
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 ,CNN
-https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1 ,Al Jazeera English
-https://live-hls-apps-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 ,France 24 English (YouTube)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=h3MuIUNCCzI
-#EXTINF:-1 ,Euronews English
-https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
