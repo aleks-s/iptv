@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.m3u8
+https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.m3u8
