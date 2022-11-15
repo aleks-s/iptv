@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.okko.tv/images/v2/15142412",Первый канал
-https://mobdrm.mediavitrina.ru/hls-live1/streams/1tv/3s/1tv.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v3.cuLF_9mJuaztmTF_Tr8O3ifmvh35LBLVTl9oM9hAYtQ.MSK5wWUH3aq_k_-JFjjT1fe_Xh4aRmtYOBGDXMMLRVk.1668862174.6c6d4266c4d31fa2d3dcf74730ee1230
+https://mobdrm.mediavitrina.ru/hls-live2/streams/1tv/3s/1tv.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v3.cuLF_9mJuaztmTF_Tr8O3ifmvh35LBLVTl9oM9hAYtQ.MSK5wWUH3aq_k_-JFjjT1fe_Xh4aRmtYOBGDXMMLRVk.1668862174.6c6d4266c4d31fa2d3dcf74730ee1230
 #EXTINF:-1 tvg-logo="https://static.okko.tv/images/v2/15113216",Россия 1
 https://mobdrm.mediavitrina.ru/hls-live1/streams/russia1/3s/russia1.m3u8?cdn=https%3A%2F%2F6yld4p7zjx.a.trbcdn.net&token=v3.cuLF_9mJuaztmTF_Tr8O3ifmvh35LBLVTl9oM9hAYtQ.MSK5wWUH3aq_k_-JFjjT1fe_Xh4aRmtYOBGDXMMLRVk.1668862174.6c6d4266c4d31fa2d3dcf74730ee1230
 #EXTINF:-1 tvg-logo="https://static.okko.tv/images/v2/18547329",Матч ТВ
